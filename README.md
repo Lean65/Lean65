@@ -1,5 +1,29 @@
 ### Hi there 👋
 
+
+const conocimientos = {
+  Lenguajes: [ JavaScript, C# ],
+  Estudiando: [ TypeScript ],
+  Tecnologias: {
+    Front-end: [ React, Redux ]
+    Back-end: [ Node, Express ]
+    Databases: [ PostgreSQL ]
+  }
+}
+
+const Contactar = metodo => {
+    switch ( metodo ) {
+        case 'mail':
+            return leandromelerio@gmail.com
+        case 'linkedind':
+            return https://www.linkedin.com/in/leandro-melerio-41ab57ab/
+        default:
+            break;
+    }
+}
+
+
+
 🔭 Actualmente estoy trabajando en un proyecto llamado "deviaje.com" desde su back-end. El mismo trata de consumir informacion de una API externa para crear una single page aplication que le permita al usuario comparar precios de distintos itinerarios de vuelo y realizar la compra de los pasajes.
 Siendo mi primera experiencia de trabajo en equipo estoy aprendiendo sobre la utilizacion de diferentes ramas dentro de github para la creacion de features especificas antes de introducirlas al proyecto final. Tambien estoy encargado de deployar el back-end y la base de datos.
 Dada mi funcion dentro del proyecto mis herramientas son: Node.js, Express, Sequelize, PostgrSQL. Estoy utilizando Heroku para el deploy.
@@ -16,11 +40,7 @@ Actualmente el proyecto esta incompleto, ya que falta trabajar el apartado de es
 |-------> Proximamente: Link del proyecto <-----|
 
 
-Pueden contartarme via mail a 
-                  leandromelerio@gmail.com
-                  
-o a traves de linkedin
-                  https://www.linkedin.com/in/leandro-melerio-41ab57ab/
+
 <!--
 **Lean65/lean65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
