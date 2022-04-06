@@ -14,6 +14,13 @@ Mis herramientas fueron React.js, Redux.js, Sequelize, PostgreSQL, Express.
 Actualmente el proyecto esta incompleto, ya que falta trabajar el apartado de estilos (Durante el desarrollo me focalice en la funcionalidad). Ademas me interesa implementar TypeScript antes de deployarlo.
 
 |-------> Proximamente: Link del proyecto <-----|
+
+
+Pueden contartarme via mail a 
+                  leandromelerio@gmail.com
+                  
+o a traves de linkedin
+                  https://www.linkedin.com/in/leandro-melerio-41ab57ab/
 <!--
 **Lean65/lean65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
