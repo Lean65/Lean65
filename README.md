@@ -38,7 +38,7 @@ Dada mi funcion dentro del proyecto mis herramientas son: Node.js, Express, Sequ
 
 
     Proyectos anteriores:
-Dog api (individual)
+    Dog api (individual)
 SPA (Single Page Aplication) que permite buscar diferentes razas de perros. La app consume datos de una API y cuenta con paginados, filtros y ordenamientos creados por mi.
 Mis herramientas fueron Node.js, React.js, Redux.js, Sequelize, PostgreSQL, Express.
 Actualmente el proyecto esta incompleto, ya que falta trabajar el apartado de estilos (Durante el desarrollo me focalice en la funcionalidad). Ademas me interesa implementar TypeScript antes de deployarlo.
