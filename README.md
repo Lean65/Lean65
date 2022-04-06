@@ -4,6 +4,7 @@
 Durante la pandemia del 2020 me interese por el desarrollo independiente de videojuegos con el motor Unity (lenguaje: C#). Esta experiencia me hizo interesarme profundamente en la logica de la programacion y no estando satisfecho con los conocimientos que me brindaba su pagina de aprendisaje, Unity-learn, sali a buscar otras alternativas. Tras intentar algunos cursos y tutoriales de interner finalmente encontre Henry, donde aun me encuentro estudiando.
 Lejos del area de videojuegos consegui muchas herramientas nuevas y me enamore mas de la programacion.
 
+```
 const conocimientos = {
   Lenguajes: [ JavaScript, C# ],
   Estudiando: [ TypeScript ],
@@ -24,6 +25,7 @@ const Contactar = metodo => {
             break
     }
 }
+```
 
 
     Proyectos:
