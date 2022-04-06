@@ -15,7 +15,7 @@ const conocimientos = {
     Databases: [ PostgreSQL ]
   }
 }
-
+[GitHub Pages](https://www.linkedin.com/in/leandro-melerio-41ab57ab/)
 const Contactar = metodo => {
     switch ( metodo ) {
         case 'mail':
