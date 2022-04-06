@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+    Sobre mi:
+Durante la pandemia del 2020 me interese por el desarrollo independiente de videojuegos con el motor Unity (lenguaje: C#). Esta experiencia me hizo interesarme profundamente en la logica de la programacion y no estando satisfecho con los conocimientos que me brindaba su pagina de aprendisaje, Unity-learn, sali a buscar otras alternativas. Tras intentar algunos cursos y tutoriales de interner finalmente encontre Henry, donde aun me encuentro estudiando.
+Lejos del area de videojuegos consegui muchas herramientas nuevas y me enamore mas de la programacion.
 
 const conocimientos = {
   Lenguajes: [ JavaScript, C# ],
@@ -18,12 +21,12 @@ const Contactar = metodo => {
         case 'linkedind':
             return https://www.linkedin.com/in/leandro-melerio-41ab57ab/
         default:
-            break;
+            break
     }
 }
 
 
-
+    Proyectos:
 🔭 Actualmente estoy trabajando en un proyecto llamado "deviaje.com" desde su back-end. El mismo trata de consumir informacion de una API externa para crear una single page aplication que le permita al usuario comparar precios de distintos itinerarios de vuelo y realizar la compra de los pasajes.
 Siendo mi primera experiencia de trabajo en equipo estoy aprendiendo sobre la utilizacion de diferentes ramas dentro de github para la creacion de features especificas antes de introducirlas al proyecto final. Tambien estoy encargado de deployar el back-end y la base de datos.
 Dada mi funcion dentro del proyecto mis herramientas son: Node.js, Express, Sequelize, PostgrSQL. Estoy utilizando Heroku para el deploy.
@@ -31,7 +34,7 @@ Dada mi funcion dentro del proyecto mis herramientas son: Node.js, Express, Sequ
 |-------> Proximamente: Link del proyecto <-----|
 
 
-Proyectos anteriores:
+    Proyectos anteriores:
 Dog api (individual)
 SPA (Single Page Aplication) que permite buscar diferentes razas de perros. La app consume datos de una API y cuenta con paginados, filtros y ordenamientos creados por mi.
 Mis herramientas fueron Node.js, React.js, Redux.js, Sequelize, PostgreSQL, Express.
