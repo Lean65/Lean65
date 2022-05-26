@@ -30,11 +30,11 @@ const Contactar = metodo => {
 
 
 ## Proyectos:
-🔭 Actualmente estoy trabajando en un proyecto llamado "deviaje.com" desde su back-end. El mismo trata de consumir informacion de una API externa para crear una single page aplication que le permita al usuario comparar precios de distintos itinerarios de vuelo y realizar la compra de los pasajes.
+🔭 Trabaje en un proyecto llamado "deviaje.com" desde su back-end. El mismo trata de consumir informacion de una API externa para crear una single page aplication que le permita al usuario comparar precios de distintos itinerarios de vuelo y realizar la compra de los pasajes.
 Siendo mi primera experiencia de trabajo en equipo estoy aprendiendo sobre la utilizacion de diferentes ramas dentro de github para la creacion de features especificas antes de introducirlas al proyecto final. Tambien estoy encargado de deployar el back-end y la base de datos.
 Dada mi funcion dentro del proyecto mis herramientas son: Node.js, Express, Sequelize, PostgrSQL. Estoy utilizando Heroku para el deploy.
 
-|-------> Proximamente: Link del proyecto <-----|
+Pueden acceder al deploy aquí https://deviaje-com.vercel.app/
 
 
 ## Proyectos anteriores:
