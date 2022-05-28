@@ -20,8 +20,8 @@ const Contactar = metodo => {
     switch ( metodo ) {
         case 'mail':
             return leandromelerio@gmail.com
-        case 'linkedind':
-            return https://www.linkedin.com/in/leandro-melerio-41ab57ab/
+        case 'linkedin':
+            return https://www.linkedin.com/in/leandro-melerio/
         default:
             break
     }
