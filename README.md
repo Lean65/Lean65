@@ -8,7 +8,7 @@ Lejos del area de videojuegos consegui muchas herramientas nuevas y me enamore m
 ```
 const conocimientos = {
   Lenguajes: [ JavaScript, C# ],
-  Estudiando: [ TypeScript, React Native ],
+  Estudiando: [ TypeScript, React Native, JAVA ],
   Tecnologias: {
     Front-end: [ React, Redux ]
     Back-end: [ Node, Express ]
